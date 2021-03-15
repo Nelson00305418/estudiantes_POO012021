@@ -15,14 +15,14 @@ namespace Example
             b = Int32.Parse(Console.ReadLine());
 
             //se modifico el nombre del metodo sum a AddNumbers
-            Console.WriteLine($"Subtracting the values of {b} to {a} give: {AddNumbers(a,b)}");
+            Console.WriteLine($"Multiplying the values of {b} to {a} give: {AddNumbers(a,b)}");
             
         }
 
-        //changed the method to do a subtracting instead of adding (TaskA)
+        //changed the method to do a multiplying instead of subtracting (TaskA)
         public static int AddNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
