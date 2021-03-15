@@ -14,3 +14,19 @@ C:\Users\HP\Desktop\UCA\POO\POO0121\Example\obj\Debug\net5.0\Example.dll
 C:\Users\HP\Desktop\UCA\POO\POO0121\Example\obj\Debug\net5.0\ref\Example.dll
 C:\Users\HP\Desktop\UCA\POO\POO0121\Example\obj\Debug\net5.0\Example.pdb
 C:\Users\HP\Desktop\UCA\POO\POO0121\Example\obj\Debug\net5.0\Example.genruntimeconfig.cache
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\Example.exe
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\Example.deps.json
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\Example.runtimeconfig.json
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\Example.runtimeconfig.dev.json
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\Example.dll
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\ref\Example.dll
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\bin\Debug\net5.0\Example.pdb
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.csprojAssemblyReference.cache
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.AssemblyInfoInputs.cache
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.AssemblyInfo.cs
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.dll
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\ref\Example.dll
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.pdb
+C:\Users\Daniel Mendez\Onedrive\Escritorio\POO\Laboratorio\estudiantes_POO012021\Example\obj\Debug\net5.0\Example.genruntimeconfig.cache
